@@ -1,19 +1,20 @@
 #system-design-interview
 
 
+
 ## <a name='toc'>Table of Contents</a>
 * [System Design Tips](#tips)
 * [Introduction to System Design](#intro)
-* [Websites and Engineering Blogs](#blog)
+* [Company Engineering Blogs](#blog)
 * [Systems and Products](#system)
 * [Hot Questions and Reference](#qs)
 * [Other](#other)
 
-####[<-](#toc) <a name='tips'>System Design Tips:</a>
+####[[<]](#toc) <a name='tips'>System Design Tips:</a>
 
-####[<-](#toc) <a name='intro'>Introduction to System Design:</a>
+####[[<]](#toc) <a name='intro'>Introduction to System Design:</a>
 
-####[<-](#toc) <a name='blog'>Websites and Engineering Blogs:</a>
+####[[<]](#toc) <a name='blog'>Company Engineering Blogs:</a>
 
 * [High Scalability](http://highscalability.com/)
 * [The GitHub Blog](https://github.com/blog/category/engineering)
@@ -46,8 +47,10 @@
 * [Bitly Engineering Blog](http://word.bitly.com/)
 
 
-####[<-](#toc) <a name='system'>System and Product:</a>
+####[[<]](#toc) <a name='system'>System and Product:</a>
 
-####[<-](#toc) <a name='qs'>Hot Questions:</a>
+* [services-engineering](https://github.com/mmcgrana/services-engineering)
 
-####[<-](#toc) <a name='other'>Other:</a>
+####[[<]](#toc) <a name='qs'>Hot Questions:</a>
+
+####[[<]](#toc) <a name='other'>Other:</a>
