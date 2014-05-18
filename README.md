@@ -1,20 +1,41 @@
 #system-design-interview
 
+System design is a very broad topic. Even a software engineer with many years of working experience at top IT company is not an expert
+on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems.
 
+The summary only teaches you to prepare the system design interview in a short time. 
 
 ## <a name='toc'>Table of Contents</a>
 * [System Design Tips](#tips)
-* [Introduction to System Design](#intro)
+* [Basic Knowledge about System Design](#intro)
 * [Company Engineering Blogs](#blog)
 * [Systems and Products](#system)
 * [Hot Questions and Reference](#qs)
 * [Other](#other)
 
-####[[<]](#toc) <a name='tips'>System Design Tips:</a>
+####<a name='tips'>System Design Tips:</a>
 
-####[[<]](#toc) <a name='intro'>Introduction to System Design:</a>
+**Clarify the constraints and identify the user cases**.
 
-####[[<]](#toc) <a name='blog'>Company Engineering Blogs:</a>
+Spend a few minutes questioning the interviewer and agreeing on the scope of the system.
+Remember to make sure you know all the requirements the interviewer didn't tell your about in the beginning.
+
+User cases indicate the main functions of the system, and constraints list the scale of the system such as requests 
+per second, requests types, data written per second, data read per second.
+
+**High-level architecture design**. 
+
+Sketch the important components and the connections between them, but don't go into some details. 
+Usually, a scalable system includes webserver (load balancer), service (service partition), database (master/slave database cluster plug cache).
+ 
+**Component Design**. 
+
+For each component, you need to write the specific APIs for each component. You may need to finish
+the detailed OOD design for a particular function. You may also need to design the database schema for the database.
+
+####<a name='intro'>Basic Knowledge about System Design:</a>
+
+####<a name='blog'>Company Engineering Blogs:</a>
 
 * [High Scalability](http://highscalability.com/)
 * [The GitHub Blog](https://github.com/blog/category/engineering)
@@ -47,10 +68,10 @@
 * [Bitly Engineering Blog](http://word.bitly.com/)
 
 
-####[[<]](#toc) <a name='system'>System and Product:</a>
+####<a name='system'>System and Product:</a>
 
 * [services-engineering](https://github.com/mmcgrana/services-engineering)
 
-####[[<]](#toc) <a name='qs'>Hot Questions:</a>
+####<a name='qs'>Hot Questions:</a>
 
-####[[<]](#toc) <a name='other'>Other:</a>
+####<a name='other'>Other:</a>
