@@ -13,7 +13,7 @@ This repository only teaches you to handle the system design interview with a sy
 * [Hot Questions and Reference](#qs)
 * [Other Related Topics](#other)
 
-####<a name='tips'>System Design Interview Tips:</a>
+###<a name='tips'>System Design Interview Tips:</a>
 
 **Clarify the constraints and identify the user cases**
 
@@ -33,7 +33,7 @@ Usually, a scalable system includes webserver (load balancer), service (service 
 For each component, you need to write the specific APIs for each component. You may need to finish
 the detailed OOD design for a particular function. You may also need to design the database schema for the database.
 
-####<a name='intro'>Basic Knowledge about System Design:</a>
+###<a name='intro'>Basic Knowledge about System Design:</a>
 
 * [How to Rock a Systems Design Interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
@@ -47,7 +47,7 @@ the detailed OOD design for a particular function. You may also need to design t
 * [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
 * [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 
-####<a name='blog'>Company Engineering Blogs:</a>
+###<a name='blog'>Company Engineering Blogs:</a>
 
 If you are going to have an onsite with a company, you should read their engineering blog. 
 
@@ -82,7 +82,7 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Bitly Engineering Blog](http://word.bitly.com/)
 
 
-####<a name='system'>Products and Systems:</a>
+###<a name='system'>Products and Systems:</a>
 
 The following papers or articles can help you to understand the general design idea of different real products and systems. 
 
@@ -95,42 +95,42 @@ The following papers or articles can help you to understand the general design i
 * [BigTable Model with Cassandra and HBase](http://horicky.blogspot.com/2010/10/bigtable-model-with-cassandra-and-hbase.html)
 * [MongoDb Architecture](http://horicky.blogspot.com/2012/04/mongodb-architecture.html)
 
-####<a name='qs'>Hot Questions and Reference:</a>
+###<a name='qs'>Hot Questions and Reference:</a>
 
-*design a CDN network*
+*Design a CDN network*
 
-*design a Google document system*
+*Design a Google document system*
 
-*design a random ID generation system*
+*Design a random ID generation system*
 
-*design a key-value database*
+*Design a key-value database*
 
-*design the Facebook new seed function*
+*Design the Facebook new seed function*
 
-*design a function to return the top k requests during past time interval*
+*Design a function to return the top k requests during past time interval*
 
-*design an online card game game* 
+*Design an online card game game* 
 
-*design a graph search function*
+*Design a graph search function*
 
-*design a picture storage system* 
+*Design a picture storage system* 
 
-*design a search engine*
+*Design a search engine*
 
-*design a recommender system*
+*Design a recommender system*
 
-*design a tinyurl system* 
+*Design a tinyurl system* 
 
-*design a garbage collection system*
+*Design a garbage collection system*
  
-*design a scalable web crawling system*
+*Design a scalable web crawling system*
 
-*design the facebook chat function*
+*Design the facebook chat function*
 
-*design a cache system* 
+*Design a cache system* 
 
-*design a payment system*
+*Design a payment system*
 
-####<a name='other'>Other Related Topics:</a>
+###<a name='other'>Other Related Topics:</a>
 
 
