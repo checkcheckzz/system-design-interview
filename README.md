@@ -159,4 +159,30 @@ The following papers/articles/slides can help you to understand the general desi
 
 ###<a name='other'>Other Related Topics:</a>
 
+Other important topics you need to know
+
+####Object Oriented Design
+
+**Tips for OOD Interview**
+
+**Clarify the scenario, write out user cases**
+
+Use case is a description of sequences of events that, taken together, lead to a system doing something useful. Who is going to use it and ho they are going to use it. The system may be very simple or very complicated.
+
+Special system requirements such as multi-threading, read or write oriented.
+
+**Define objects**
+
+Map identity to class: one scenario for one class, each core object in this scenario for one class.
+
+Consider the relationships among classes: certain class must have unique instance, one object has many other objects (composition), one object is another object (inheritance).
+
+Identify attributes for each class: change noun to variable and action to methods.
+
+Use design patterns such that it can be reused in multiple applications.
+
+* [101 Design Patterns & Tips for Developers](http://sourcemaking.com/design-patterns-and-tips)
+
+
+
 
