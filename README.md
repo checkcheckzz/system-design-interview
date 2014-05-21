@@ -11,7 +11,7 @@ This repository only teaches you to handle the system design interview with a sy
 * [Company Engineering Blogs](#blog)
 * [Products and Systems](#system)
 * [Hot Questions and Reference](#qs)
-* [Other Related Topics](#other)
+* [Object Oriented Design](#ood)
 
 ###<a name='tips'>System Design Interview Tips:</a>
 
@@ -123,15 +123,24 @@ The following papers/articles/slides can help you to understand the general desi
 
 ###<a name='qs'>Hot Questions and Reference:</a>
 
-**Design a CDN network**
+There are some good references for each question. 
 
-**Design a Google document system**
+**Design a CDN network**  
+Reference: [Globally Distributed Content Delivery](http://www.akamai.com/dl/technical_publications/GloballyDistributedContentDelivery.pdf)
 
-**Design a random ID generation system**
+**Design a Google document system**  
+Reference: [google-mobwrite](https://code.google.com/p/google-mobwrite/) and [Differential Synchronization](https://neil.fraser.name/writing/sync/).
 
-**Design a key-value database**
+**Design a random ID generation system**  
+Reference: [Announcing Snowflake](https://blog.twitter.com/2010/announcing-snowflake) and [snowflake](https://github.com/twitter/snowflake/).
 
-**Design the Facebook new seed function**
+**Design a key-value database**  
+Reference: [Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis)
+
+**Design the Facebook news seed function**
+
+**Design the Facebook timeline function**   
+Reference: [Building Timeline](https://www.facebook.com/note.php?note_id=10150468255628920) and [Facebook Timeline](http://highscalability.com/blog/2012/1/23/facebook-timeline-brought-to-you-by-the-power-of-denormaliza.html).
 
 **Design a function to return the top k requests during past time interval**
 
@@ -139,7 +148,8 @@ The following papers/articles/slides can help you to understand the general desi
 
 **Design a graph search function**
 
-**Design a picture storage system** 
+**Design a picture sharing system**   
+Reference: [Flickr Architecture](http://highscalability.com/flickr-architecture) and [Instagram Architecture](http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html). 
 
 **Design a search engine**
 
@@ -153,15 +163,12 @@ The following papers/articles/slides can help you to understand the general desi
 
 **Design the facebook chat function**
 
-**Design a cache system** 
+**Design a cache system**  
+Reference: [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached). 
 
 **Design a payment system**
 
-###<a name='other'>Other Related Topics:</a>
-
-Other important topics you need to know
-
-####Object Oriented Design
+###<a name='ood'>Object Oriented Design:</a>
 
 **Tips for OOD Interview**
 
