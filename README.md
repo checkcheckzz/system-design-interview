@@ -126,7 +126,7 @@ The following papers/articles/slides can help you to understand the general desi
 There are some good references for each question. 
 
 **Design a CDN network**  
-Reference: [Globally Distributed Content Delivery](http://www.akamai.com/dl/technical_publications/GloballyDistributedContentDelivery.pdf)
+Reference: [Globally Distributed Content Delivery](http://www.akamai.com/dl/technical_publications/GloballyDistributedContentDelivery.pdf).
 
 **Design a Google document system**  
 Reference: [google-mobwrite](https://code.google.com/p/google-mobwrite/) and [Differential Synchronization](https://neil.fraser.name/writing/sync/).
@@ -135,7 +135,7 @@ Reference: [google-mobwrite](https://code.google.com/p/google-mobwrite/) and [Di
 Reference: [Announcing Snowflake](https://blog.twitter.com/2010/announcing-snowflake) and [snowflake](https://github.com/twitter/snowflake/).
 
 **Design a key-value database**  
-Reference: [Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis)
+Reference: [Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis).
 
 **Design the Facebook news seed function**
 
@@ -170,7 +170,7 @@ Reference: [Introduction to Memcached](http://www.slideshare.net/oemebamo/introd
 
 ###<a name='ood'>Object Oriented Design:</a>
 
-**Tips for OOD Interview**
+####Tips for OOD Interview
 
 **Clarify the scenario, write out user cases**
 
@@ -187,6 +187,8 @@ Consider the relationships among classes: certain class must have unique instanc
 Identify attributes for each class: change noun to variable and action to methods.
 
 Use design patterns such that it can be reused in multiple applications.
+
+####Useful Websites
 
 * [101 Design Patterns & Tips for Developers](http://sourcemaking.com/design-patterns-and-tips)
 
