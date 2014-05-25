@@ -6,12 +6,12 @@ on system design. If you want to become an expert, you need to read many books, 
 This repository only teaches you to handle the system design interview with a systematic approach in a short time. You can dive into each topic if you have time.
 
 ## <a name='toc'>Table of Contents</a>
-* [System Design Interview Tips](#tips)
-* [Basic Knowledge about System Design](#intro)
-* [Company Engineering Blogs](#blog)
-* [Products and Systems](#system)
-* [Hot Questions and Reference](#qs)
-* [Object Oriented Design](#ood)
+- [ ] [System Design Interview Tips](#tips)
+- [ ] [Basic Knowledge about System Design](#intro)
+- [ ] [Company Engineering Blogs](#blog)
+- [ ] [Products and Systems](#system)
+- [ ] [Hot Questions and Reference](#qs)
+- [ ] [Object Oriented Design](#ood)
 
 ###<a name='tips'>System Design Interview Tips:</a>
 
@@ -28,7 +28,7 @@ per second, requests types, data written per second, data read per second.
 Sketch the important components and the connections between them, but don't go into some details. 
 Usually, a scalable system includes webserver (load balancer), service (service partition), database (master/slave database cluster plug cache).
  
-**Component Design**
+**Component design**
 
 For each component, you need to write the specific APIs for each component. You may need to finish
 the detailed OOD design for a particular function. You may also need to design the database schema for the database.
