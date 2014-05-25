@@ -13,7 +13,7 @@ This repository only teaches you to handle the system design interview with a sy
 - [ ] [Hot Questions and Reference](#qs)
 - [ ] [Object Oriented Design](#ood)
 
-###<a name='tips'>System Design Interview Tips:</a>
+###[[⬆]](#toc) <a name='tips'>System Design Interview Tips:</a>
 
 **Clarify the constraints and identify the user cases**
 
@@ -33,7 +33,7 @@ Usually, a scalable system includes webserver (load balancer), service (service 
 For each component, you need to write the specific APIs for each component. You may need to finish
 the detailed OOD design for a particular function. You may also need to design the database schema for the database.
 
-###<a name='intro'>Basic Knowledge about System Design:</a>
+###[[⬆]](#toc) <a name='intro'>Basic Knowledge about System Design:</a>
 
 Here are some articles about system design related topics.  
 
@@ -53,7 +53,7 @@ Of course, if you want to dive into system related topics, here is a good collec
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
 
 
-###<a name='blog'>Company Engineering Blogs:</a>
+###[[⬆]](#toc) <a name='blog'>Company Engineering Blogs:</a>
 
 If you are going to have an onsite with a company, you should read their engineering blog. 
 
@@ -88,7 +88,7 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Bitly Engineering Blog](http://word.bitly.com/)
 
 
-###<a name='system'>Products and Systems:</a>
+###[[⬆]](#toc) <a name='system'>Products and Systems:</a>
 
 The following papers/articles/slides can help you to understand the general design idea of different real products and systems. 
 
@@ -121,7 +121,7 @@ The following papers/articles/slides can help you to understand the general desi
 * [Salesforce Architecture ](http://highscalability.com/blog/2013/9/23/salesforce-architecture-how-they-handle-13-billion-transacti.html)
 * [ESPN's Architecture](http://highscalability.com/blog/2013/11/4/espns-architecture-at-scale-operating-at-100000-duh-nuh-nuhs.html)
 
-###<a name='qs'>Hot Questions and Reference:</a>
+###[[⬆]](#toc) <a name='qs'>Hot Questions and Reference:</a>
 
 There are some good references for each question. 
 
@@ -168,7 +168,7 @@ Reference: [Introduction to Memcached](http://www.slideshare.net/oemebamo/introd
 
 **Design a payment system**
 
-###<a name='ood'>Object Oriented Design:</a>
+###[[⬆]](#toc) <a name='ood'>Object Oriented Design:</a>
 
 ####Tips for OOD Interview
 
