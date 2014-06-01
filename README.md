@@ -128,45 +128,85 @@ The following papers/articles/slides can help you to understand the general desi
 There are some good references for each question. 
 
 **Design a CDN network**  
-Reference: [Globally Distributed Content Delivery](http://www.akamai.com/dl/technical_publications/GloballyDistributedContentDelivery.pdf).
+Reference:  
+* [Globally Distributed Content Delivery](http://www.akamai.com/dl/technical_publications/GloballyDistributedContentDelivery.pdf).
 
 **Design a Google document system**  
-Reference: [google-mobwrite](https://code.google.com/p/google-mobwrite/) and [Differential Synchronization](https://neil.fraser.name/writing/sync/).
+Reference:  
+* [google-mobwrite](https://code.google.com/p/google-mobwrite/)
+* [Differential Synchronization](https://neil.fraser.name/writing/sync/).
 
 **Design a random ID generation system**  
-Reference: [Announcing Snowflake](https://blog.twitter.com/2010/announcing-snowflake) and [snowflake](https://github.com/twitter/snowflake/).
+Reference: 
+* [Announcing Snowflake](https://blog.twitter.com/2010/announcing-snowflake) 
+* [snowflake](https://github.com/twitter/snowflake/).
 
 **Design a key-value database**  
-Reference: [Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis).
+Reference:   
+* [Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis).
 
-**Design the Facebook news seed function**
+**Design the Facebook news seed function**   
+Reference:   
+* [What are best practices for building something like a News Feed?](http://www.quora.com/What-are-best-practices-for-building-something-like-a-News-Feed) 
+* [What are the scaling issues to keep in mind while developing a social network feed?](http://www.quora.com/Activity-Streams/What-are-the-scaling-issues-to-keep-in-mind-while-developing-a-social-network-feed) 
+* [Activity Feeds Architecture](http://www.slideshare.net/danmckinley/etsy-activity-feeds-architecture)
 
 **Design the Facebook timeline function**   
-Reference: [Building Timeline](https://www.facebook.com/note.php?note_id=10150468255628920) and [Facebook Timeline](http://highscalability.com/blog/2012/1/23/facebook-timeline-brought-to-you-by-the-power-of-denormaliza.html).
+Reference: 
+* [Building Timeline](https://www.facebook.com/note.php?note_id=10150468255628920) 
+* [Facebook Timeline](http://highscalability.com/blog/2012/1/23/facebook-timeline-brought-to-you-by-the-power-of-denormaliza.html).
 
-**Design a function to return the top k requests during past time interval**
+**Design a function to return the top k requests during past time interval**   
+Reference:  
 
-**Design an online card game game** 
+**Design an online card game game**   
+Reference:  
 
-**Design a graph search function**
+**Design a graph search function**   
+Reference:   
+* [Building out the infrastructure for Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-building-out-the-infrastructure-for-graph-search/10151347573598920)
+* [Indexing and ranking in Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-indexing-and-ranking-in-graph-search/10151361720763920) 
+* [The natural language interface of Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-the-natural-language-interface-of-graph-search/10151432733048920) and [Erlang at Facebook](http://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf).
 
 **Design a picture sharing system**   
-Reference: [Flickr Architecture](http://highscalability.com/flickr-architecture) and [Instagram Architecture](http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html). 
+Reference:   
+* [Flickr Architecture](http://highscalability.com/flickr-architecture) 
+* [Instagram Architecture](http://highscalability.com/blog/2011/12/6/instagram-architecture-14-million-users-terabytes-of-photos.html). 
 
-**Design a search engine**
+**Design a search engine**   
+Reference:  
+* [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/interview-question-how-would-you-implement-google-search)  
+* [Implementing Search Engines](http://www.ardendertat.com/2012/01/11/implementing-search-engines/)
 
-**Design a recommender system**
+**Design a recommender system**  
+Reference:
 
-**Design a tinyurl system** 
+**Design a tinyurl system**    
+Reference: 
+* [System Design for Big Data-tinyurl](http://n00tc0d3r.blogspot.com/) 
+* [URL Shortener API](https://developers.google.com/url-shortener/?csw=1).
 
-**Design a garbage collection system**
+**Design a garbage collection system**    
+Reference:   
+* [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/).
  
-**Design a scalable web crawling system**
+**Design a scalable web crawling system**    
+Reference:  
+* [Design and Implementation of a High-Performance Distributed Web Crawler](http://cis.poly.edu/suel/papers/crawl.pdf)
 
-**Design the facebook chat function**
+**Design the Facebook chat function**    
+Reference:   
+* [Erlang at Facebook](http://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf)  
+* [Facebook Chat](https://www.facebook.com/note.php?note_id=14218138919&id=9445547199&index=0)
 
-**Design a cache system**  
-Reference: [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached). 
+**Design a trending topic system**    
+Reference:  
+* [Implementing Real-Time Trending Topics With a Distributed Rolling Count Algorithm in Storm](http://www.michael-noll.com/blog/2013/01/18/implementing-real-time-trending-topics-in-storm/)   
+* [Early detection of Twitter trends explained](http://snikolov.wordpress.com/2012/11/14/early-detection-of-twitter-trends/)
+ 
+**Design a cache system**    
+Reference:   
+* [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached). 
 
 **Design a payment system**
 
