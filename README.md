@@ -159,8 +159,13 @@ Reference:
 **Design a function to return the top k requests during past time interval**   
 Reference:  
 
-**Design an online card game game**   
+**Design an online multiplayer card game**   
 Reference:  
+* [How to Create an Asynchronous Multiplayer Game](http://www.indieflashblog.com/how-to-create-an-asynchronous-multiplayer-game.html)   
+* [How to Create an Asynchronous Multiplayer Game Part 2: Saving the Game State to Online Database](http://www.indieflashblog.com/how-to-create-async-part2.html)  
+* [How to Create an Asynchronous Multiplayer Game Part 3: Loading Games from the Database](http://www.indieflashblog.com/how-to-create-async-part3.html)  
+* [How to Create an Asynchronous Multiplayer Game Part 4: Matchmaking](http://www.indieflashblog.com/how-to-create-async-part4-html.html#comment-4447)  
+* [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/)  
 
 **Design a graph search function**   
 Reference:   
@@ -178,7 +183,7 @@ Reference:
 * [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/interview-question-how-would-you-implement-google-search)  
 * [Implementing Search Engines](http://www.ardendertat.com/2012/01/11/implementing-search-engines/)
 
-**Design a recommender system**  
+**Design a recommendition system**  
 Reference:
 
 **Design a tinyurl system**    
@@ -207,8 +212,6 @@ Reference:
 **Design a cache system**    
 Reference:   
 * [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached). 
-
-**Design a payment system**
 
 ###[[⬆]](#toc) <a name='ood'>Object Oriented Design:</a>
 
