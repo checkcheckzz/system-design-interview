@@ -2,7 +2,7 @@
 
 > How to prepare system design questions for IT company
 
-System design is a very broad topic. Even a software engineer with many years of working experience at top IT company is not an expert
+System design is a very broad topic. Even a software engineer with many years of working experience at top IT company may not be an expert
 on system design. If you want to become an expert, you need to read many books, articles, and solve real large scale system design problems.
 
 This repository only teaches you to handle the system design interview with a systematic approach in a short time. 
@@ -220,7 +220,7 @@ Reference:
 
 **Clarify the scenario, write out user cases**
 
-Use case is a description of sequences of events that, taken together, lead to a system doing something useful. Who is going to use it and ho they are going to use it. The system may be very simple or very complicated.
+Use case is a description of sequences of events that, taken together, lead to a system doing something useful. Who is going to use it and how they are going to use it. The system may be very simple or very complicated.
 
 Special system requirements such as multi-threading, read or write oriented.
 
