@@ -126,7 +126,7 @@ The following papers/articles/slides can help you to understand the general desi
 
 ###[[⬆]](#toc) <a name='qs'>Hot Questions and Reference:</a>
 
-There are some good references for each question. 
+There are some good references for each question. The references here are slides and articles. 
 
 **Design a CDN network**  
 Reference:  
@@ -159,6 +159,8 @@ Reference:
 
 **Design a function to return the top k requests during past time interval**   
 Reference:  
+* [Efficient Computation of Frequent and Top-k Elements in Data Streams](https://icmi.cs.ucsb.edu/research/tech_reports/reports/2005-23.pdf)
+* [An Optimal Strategy for Monitoring Top-k Queries in Streaming Windows](http://davis.wpi.edu/xmdv/docs/EDBT11-diyang.pdf)
 
 **Design an online multiplayer card game**   
 Reference:  
@@ -185,7 +187,9 @@ Reference:
 * [Implementing Search Engines](http://www.ardendertat.com/2012/01/11/implementing-search-engines/)
 
 **Design a recommendition system**  
-Reference:
+Reference:  
+* [Hulu’s Recommendation System](http://tech.hulu.com/blog/2011/09/19/recommendation-system/)  
+* [Recommender Systems](http://ijcai13.org/files/tutorial_slides/td3.pdf)
 
 **Design a tinyurl system**    
 Reference: 
