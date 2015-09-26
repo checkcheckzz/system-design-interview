@@ -91,7 +91,8 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Pinterest Engineering Blog](http://engineering.pinterest.com/)
 * [Twilio Engineering Blog](http://www.twilio.com/engineering)
 * [Bitly Engineering Blog](http://word.bitly.com/)
-
+* [Uber Engineering Blog ](https://eng.uber.com/)
+* [Godaddy Engineering](http://engineering.godaddy.com/)
 
 ###[[⬆]](#toc) <a name='system'>Products and Systems:</a>
 
@@ -124,7 +125,9 @@ The following papers/articles/slides can help you to understand the general desi
 * [TripAdvisor Architecture](http://highscalability.com/blog/2011/6/27/tripadvisor-architecture-40m-visitors-200m-dynamic-page-view.html)
 * [Scaling Mailbox](http://highscalability.com/blog/2013/6/18/scaling-mailbox-from-0-to-one-million-users-in-6-weeks-and-1.html)
 * [Salesforce Architecture ](http://highscalability.com/blog/2013/9/23/salesforce-architecture-how-they-handle-13-billion-transacti.html)
-* [ESPN's Architecture](http://highscalability.com/blog/2013/11/4/espns-architecture-at-scale-operating-at-100000-duh-nuh-nuhs.html)
+* [ESPN Architecture](http://highscalability.com/blog/2013/11/4/espns-architecture-at-scale-operating-at-100000-duh-nuh-nuhs.html)
+* [Uber Architecture](http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html)
+* [DropBox Design](https://www.youtube.com/watch?v=PE4gwstWhmc)
 
 ###[[⬆]](#toc) <a name='qs'>Hot Questions and Reference:</a>
 
