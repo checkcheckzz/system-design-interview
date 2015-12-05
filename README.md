@@ -208,7 +208,7 @@ Reference:
  
 **Design a scalable web crawling system**    
 Reference:  
-* [Design and Implementation of a High-Performance Distributed Web Crawler](http://cis.poly.edu/suel/papers/crawl.pdf)
+* [How can I build a web crawler from scratch?](https://www.quora.com/How-can-I-build-a-web-crawler-from-scratch)
 
 **Design the Facebook chat function**    
 Reference:   
