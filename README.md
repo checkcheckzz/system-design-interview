@@ -152,7 +152,7 @@ Reference:
 Reference:   
 * [Introduction to Redis](http://www.slideshare.net/dvirsky/introduction-to-redis)
 
-**Design the Facebook news seed function**   
+**Design the Facebook news feed function**   
 Reference:   
 * [What are best practices for building something like a News Feed?](http://www.quora.com/What-are-best-practices-for-building-something-like-a-News-Feed) 
 * [What are the scaling issues to keep in mind while developing a social network feed?](http://www.quora.com/Activity-Streams/What-are-the-scaling-issues-to-keep-in-mind-while-developing-a-social-network-feed) 
