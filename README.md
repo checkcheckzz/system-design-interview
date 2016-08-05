@@ -194,7 +194,7 @@ Reference:
 
 **Design a recommendition system**  
 Reference:  
-* [Hulu’s Recommendation System](http://tech.hulu.com/blog/2011/09/19/recommendation-system/)  
+* [Hulu’s Recommendation System](http://tech.hulu.com/blog/2011/09/19/recommendation-system.html)  
 * [Recommender Systems](http://ijcai13.org/files/tutorial_slides/td3.pdf)
 
 **Design a tinyurl system**    
