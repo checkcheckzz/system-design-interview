@@ -22,7 +22,7 @@ You can dive into each topic if you have time. Of course, welcome to add your th
 **Clarify the constraints and identify the user cases**
 
 Spend a few minutes questioning the interviewer and agreeing on the scope of the system.
-Remember to make sure you know all the requirements the interviewer didn't tell your about in the beginning.
+Remember to make sure you know all the requirements the interviewer didn't tell you about in the beginning.
 
 User cases indicate the main functions of the system, and constraints list the scale of the system such as requests 
 per second, requests types, data written per second, data read per second.
@@ -192,7 +192,7 @@ Reference:
 * [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/interview-question-how-would-you-implement-google-search)  
 * [Implementing Search Engines](http://www.ardendertat.com/2012/01/11/implementing-search-engines/)
 
-**Design a recommendition system**  
+**Design a recommendation system**  
 Reference:  
 * [Hulu’s Recommendation System](http://tech.hulu.com/blog/2011/09/19/recommendation-system.html)  
 * [Recommender Systems](http://ijcai13.org/files/tutorial_slides/td3.pdf)
