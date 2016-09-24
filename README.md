@@ -95,6 +95,7 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Bitly Engineering Blog](http://word.bitly.com/)
 * [Uber Engineering Blog ](https://eng.uber.com/)
 * [Godaddy Engineering](http://engineering.godaddy.com/)
+* [Splunk Blog](http://blogs.splunk.com/)
 
 ###[[⬆]](#toc) <a name='system'>Products and Systems:</a>
 
@@ -130,6 +131,7 @@ The following papers/articles/slides can help you to understand the general desi
 * [ESPN Architecture](http://highscalability.com/blog/2013/11/4/espns-architecture-at-scale-operating-at-100000-duh-nuh-nuhs.html)
 * [Uber Architecture](http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html)
 * [DropBox Design](https://www.youtube.com/watch?v=PE4gwstWhmc)
+* [Splunk Architecture](http://www.splunk.com/view/SP-CAAABF9)
 
 ###[[⬆]](#toc) <a name='qs'>Hot Questions and Reference:</a>
 
