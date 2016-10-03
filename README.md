@@ -96,6 +96,7 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Uber Engineering Blog ](https://eng.uber.com/)
 * [Godaddy Engineering](http://engineering.godaddy.com/)
 * [Splunk Blog](http://blogs.splunk.com/)
+* [Coursera Engineering Blog](https://building.coursera.org/)
 
 ###[[⬆]](#toc) <a name='system'>Products and Systems:</a>
 
