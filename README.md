@@ -83,7 +83,7 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Flickr Code](http://code.flickr.net/)
 * [Instagram Engineering](http://instagram-engineering.tumblr.com/)
 * [Dropbox Tech Blog](https://tech.dropbox.com/)
-* [Cloudera Developer Blog](http://blog.cloudera.com/blog/)
+* [Cloudera Developer Blog](http://blog.cloudera.com/)
 * [Bandcamp Tech](http://bandcamptech.wordpress.com/)
 * [Oyster Tech Blog](http://tech.oyster.com/)
 * [THE REDDIT BLOG](http://www.redditblog.com/)
@@ -169,7 +169,7 @@ Reference:
 
 **Design a function to return the top k requests during past time interval**   
 Reference:  
-* [Efficient Computation of Frequent and Top-k Elements in Data Streams](https://icmi.cs.ucsb.edu/research/tech_reports/reports/2005-23.pdf)
+* [Efficient Computation of Frequent and Top-k Elements in Data Streams](http://www.cse.ust.hk/~raywong/comp5331/References/EfficientComputationOfFrequentAndTop-kElementsInDataStreams.pdf)
 * [An Optimal Strategy for Monitoring Top-k Queries in Streaming Windows](http://davis.wpi.edu/xmdv/docs/EDBT11-diyang.pdf)
 
 **Design an online multiplayer card game**   
