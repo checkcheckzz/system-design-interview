@@ -169,7 +169,7 @@ Reference:
 
 **Design a function to return the top k requests during past time interval**   
 Reference:  
-* [Efficient Computation of Frequent and Top-k Elements in Data Streams](https://icmi.cs.ucsb.edu/research/tech_reports/reports/2005-23.pdf)
+* [Efficient Computation of Frequent and Top-k Elements in Data Streams](http://www.cse.ust.hk/~raywong/comp5331/References/EfficientComputationOfFrequentAndTop-kElementsInDataStreams.pdf)
 * [An Optimal Strategy for Monitoring Top-k Queries in Streaming Windows](http://davis.wpi.edu/xmdv/docs/EDBT11-diyang.pdf)
 
 **Design an online multiplayer card game**   
