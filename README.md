@@ -97,6 +97,7 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Godaddy Engineering](http://engineering.godaddy.com/)
 * [Splunk Blog](http://blogs.splunk.com/)
 * [Coursera Engineering Blog](https://building.coursera.org/)
+* [PayPal Engineering Blog](https://www.paypal-engineering.com/)
 
 ###[[⬆]](#toc) <a name='system'>Products and Systems:</a>
 
