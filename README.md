@@ -22,7 +22,7 @@ You can dive into each topic if you have time. Of course, welcome to add your th
 **Clarify the constraints and identify the user cases**
 
 Spend a few minutes questioning the interviewer and agreeing on the scope of the system.
-Remember to make sure you know all the requirements the interviewer didn't tell your about in the beginning.
+Remember to make sure you know all the requirements the interviewer didn't tell you about in the beginning.
 
 User cases indicate the main functions of the system, and constraints list the scale of the system such as requests 
 per second, requests types, data written per second, data read per second.
@@ -46,6 +46,7 @@ Here are some articles about system design related topics.
 * [Scalability for Dummies](http://www.lecloud.net/tagged/scalability)
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 * [Numbers Everyone Should Know](http://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
+* [Fallacies of distributed systems] (https://pages.cs.wisc.edu/~zuyu/files/fallacies.pdf)
 * [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
 * [Introduction to Architecting Systems for Scale](http://lethain.com/introduction-to-architecting-systems-for-scale/)
 * [Transactions Across Datacenters](http://snarfed.org/transactions_across_datacenters_io.html)
@@ -82,7 +83,7 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Flickr Code](http://code.flickr.net/)
 * [Instagram Engineering](http://instagram-engineering.tumblr.com/)
 * [Dropbox Tech Blog](https://tech.dropbox.com/)
-* [Cloudera Developer Blog](http://blog.cloudera.com/blog/)
+* [Cloudera Developer Blog](http://blog.cloudera.com/)
 * [Bandcamp Tech](http://bandcamptech.wordpress.com/)
 * [Oyster Tech Blog](http://tech.oyster.com/)
 * [THE REDDIT BLOG](http://www.redditblog.com/)
@@ -94,6 +95,10 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Bitly Engineering Blog](http://word.bitly.com/)
 * [Uber Engineering Blog ](https://eng.uber.com/)
 * [Godaddy Engineering](http://engineering.godaddy.com/)
+* [Splunk Blog](http://blogs.splunk.com/)
+* [Coursera Engineering Blog](https://building.coursera.org/)
+* [PayPal Engineering Blog](https://www.paypal-engineering.com/)
+* [Nextdoor Engineering Blog](https://engblog.nextdoor.com/)
 
 ###[[⬆]](#toc) <a name='system'>Products and Systems:</a>
 
@@ -113,7 +118,7 @@ The following papers/articles/slides can help you to understand the general desi
 * [Introduction to Zookeeper](http://www.slideshare.net/sauravhaloi/introduction-to-apache-zookeeper)
 * [Kafka](http://www.slideshare.net/mumrah/kafka-talk-tri-hug)
 * [YouTube Architecture](http://highscalability.com/youtube-architecture)
-* [Scalinig Pinterest](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html)
+* [Scaling Pinterest](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html)
 * [Google Architecture](http://highscalability.com/google-architecture)
 * [Scaling Twitter](http://highscalability.com/scaling-twitter-making-twitter-10000-percent-faster)
 * [The WhatsApp Architecture](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
@@ -130,6 +135,7 @@ The following papers/articles/slides can help you to understand the general desi
 * [Uber Architecture](http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html)
 * [DropBox Design](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * [Distributed locks with Redis](http://redis.io/topics/distlock)
+* [Splunk Architecture](http://www.splunk.com/view/SP-CAAABF9)
 
 ###[[⬆]](#toc) <a name='qs'>Hot Questions and Reference:</a>
 
@@ -166,7 +172,7 @@ Reference:
 
 **Design a function to return the top k requests during past time interval**   
 Reference:  
-* [Efficient Computation of Frequent and Top-k Elements in Data Streams](https://icmi.cs.ucsb.edu/research/tech_reports/reports/2005-23.pdf)
+* [Efficient Computation of Frequent and Top-k Elements in Data Streams](http://www.cse.ust.hk/~raywong/comp5331/References/EfficientComputationOfFrequentAndTop-kElementsInDataStreams.pdf)
 * [An Optimal Strategy for Monitoring Top-k Queries in Streaming Windows](http://davis.wpi.edu/xmdv/docs/EDBT11-diyang.pdf)
 
 **Design an online multiplayer card game**   
@@ -193,9 +199,9 @@ Reference:
 * [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/interview-question-how-would-you-implement-google-search)  
 * [Implementing Search Engines](http://www.ardendertat.com/2012/01/11/implementing-search-engines/)
 
-**Design a recommendition system**  
+**Design a recommendation system**  
 Reference:  
-* [Hulu’s Recommendation System](http://tech.hulu.com/blog/2011/09/19/recommendation-system/)  
+* [Hulu’s Recommendation System](http://tech.hulu.com/blog/2011/09/19/recommendation-system.html)  
 * [Recommender Systems](http://ijcai13.org/files/tutorial_slides/td3.pdf)
 
 **Design a tinyurl system**    
