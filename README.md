@@ -87,7 +87,7 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Bandcamp Tech](http://bandcamptech.wordpress.com/)
 * [Oyster Tech Blog](http://tech.oyster.com/)
 * [THE REDDIT BLOG](http://www.redditblog.com/)
-* [Groupn Engineering Blog](https://engineering.groupon.com/)
+* [Groupon Engineering Blog](https://engineering.groupon.com/)
 * [Songkick Technology Blog](http://devblog.songkick.com/)
 * [Google Research Blog](http://googleresearch.blogspot.com/)
 * [Pinterest Engineering Blog](http://engineering.pinterest.com/)
