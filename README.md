@@ -15,7 +15,7 @@ This repository only teaches you how to handle the system design interview with 
 - [ ] [Good Books](#bk)
 - [ ] [Object Oriented Design](#ood)
 
-###[[⬆]](#toc) <a name='tips'>System Design Interview Tips:</a>
+### [[⬆]](#toc) <a name='tips'>System Design Interview Tips:</a>
 
 **Clarify the constraints and identify the user cases**
 
@@ -35,7 +35,7 @@ Usually, a scalable system includes webserver (load balancer), service (service 
 For each component, you need to write the specific APIs for each component. You may need to finish
 the detailed OOD design for a particular function. You may also need to design the database schema for the database.
 
-###[[⬆]](#toc) <a name='intro'>Basic Knowledge about System Design:</a>
+### [[⬆]](#toc) <a name='intro'>Basic Knowledge about System Design:</a>
 
 Here are some articles about system design related topics.  
 
@@ -58,7 +58,7 @@ Here are some articles about system design related topics.
 Of course, if you want to dive into system related topics, here is a good collection of reading list about [services-engineering](https://github.com/mmcgrana/services-engineering), and
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
 
-###[[⬆]](#toc) <a name='blog'>Company Engineering Blogs:</a>
+### [[⬆]](#toc) <a name='blog'>Company Engineering Blogs:</a>
 
 If you are going to have an onsite with a company, you should read their engineering blog. 
 
@@ -98,7 +98,7 @@ If you are going to have an onsite with a company, you should read their enginee
 * [PayPal Engineering Blog](https://www.paypal-engineering.com/)
 * [Nextdoor Engineering Blog](https://engblog.nextdoor.com/)
 
-###[[⬆]](#toc) <a name='system'>Products and Systems:</a>
+### [[⬆]](#toc) <a name='system'>Products and Systems:</a>
 
 The following papers/articles/slides can help you to understand the general design idea of different real products and systems. 
 
@@ -134,7 +134,7 @@ The following papers/articles/slides can help you to understand the general desi
 * [DropBox Design](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * [Splunk Architecture](http://www.splunk.com/view/SP-CAAABF9)
 
-###[[⬆]](#toc) <a name='qs'>Hot Questions and Reference:</a>
+### [[⬆]](#toc) <a name='qs'>Hot Questions and Reference:</a>
 
 There are some good references for each question. The references here are slides and articles. 
 
@@ -228,15 +228,15 @@ Reference:
 Reference:   
 * [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached)
 
-###[[⬆]](#toc) <a name='bk'>Good Books:</a>
+### [[⬆]](#toc) <a name='bk'>Good Books:</a>
 
 * [Big Data: Principles and best practices of scalable realtime data systems](http://www.amazon.com/Big-Data-Principles-practices-scalable/dp/1617290343)
 * [Real-Time Analytics: Techniques to Analyze and Visualize Streaming Data](http://www.amazon.com/Real-Time-Analytics-Techniques-Visualize-Streaming/dp/1118837916)
 * [Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358)
 
-###[[⬆]](#toc) <a name='ood'>Object Oriented Design:</a>
+### [[⬆]](#toc) <a name='ood'>Object Oriented Design:</a>
 
-####Tips for OOD Interview
+#### Tips for OOD Interview
 
 **Clarify the scenario, write out user cases**
 
@@ -254,7 +254,7 @@ Identify attributes for each class: change noun to variable and action to method
 
 Use design patterns such that it can be reused in multiple applications.
 
-####Useful Websites
+#### Useful Websites
 
 * [101 Design Patterns & Tips for Developers](http://sourcemaking.com/design-patterns-and-tips)
 
