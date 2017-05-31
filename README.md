@@ -28,7 +28,7 @@ per second, requests types, data written per second, data read per second.
 **High-level architecture design**
 
 Sketch the important components and the connections between them, but don't go into some details. 
-Usually, a scalable system includes webserver (load balancer), service (service partition), database (master/slave database cluster plug cache).
+Usually, a scalable system includes webserver (load balancer), service (service partition), database (primary/secondary database cluster plug cache).
  
 **Component design**
 
