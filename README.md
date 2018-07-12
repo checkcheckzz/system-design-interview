@@ -142,7 +142,7 @@ There are some good references for each question. The references here are slides
 
 **Design a CDN network**  
 Reference:  
-* [Globally Distributed Content Delivery](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2112&context=compsci)
+* [Globally Distributed Content Delivery](https://pdfs.semanticscholar.org/01a3/26535590a1c4c19367cc1b5e6ed827330ab8.pdf)
 
 **Design a Google document system**  
 Reference:  
