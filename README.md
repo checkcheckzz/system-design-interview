@@ -99,6 +99,7 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Nextdoor Engineering Blog](https://engblog.nextdoor.com/)
 * [Booking.com Development Blog](https://blog.booking.com/)
 * [Scalyr Engineering Blog ](https://blog.scalyr.com/)
+* [Myntra Engineering ](https://medium.com/myntra-engineering)
 * [Fastly Blog](https://www.fastly.com/blog/)
 * [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)
 
