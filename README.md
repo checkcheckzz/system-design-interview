@@ -73,7 +73,7 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Yammer Engineering](http://eng.yammer.com/blog/)
 * [Etsy Code as Craft](http://codeascraft.com/)
 * [Foursquare Engineering Blog](http://engineering.foursquare.com/)
-* [Airbnb Engineering](http://nerds.airbnb.com/)
+* [Airbnb Engineering](https://medium.com/airbnb-engineering)
 * [WebEngage Engineering Blog](http://engineering.webengage.com/)
 * [LinkedIn Engineering](http://engineering.linkedin.com/blog)
 * [The Netflix Tech Blog](http://techblog.netflix.com/)
@@ -102,10 +102,15 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Nextdoor Engineering Blog](https://engblog.nextdoor.com/)
 * [Booking.com Development Blog](https://blog.booking.com/)
 * [Microsoft Engineering Blog](https://engineering.microsoft.com/)
-* [Scalyr Engineering Blog ](https://blog.scalyr.com/)
-* [Myntra Engineering ](https://medium.com/myntra-engineering)
+* [Scalyr Engineering Blog](https://blog.scalyr.com/)
+* [Myntra Engineering Blog](https://medium.com/myntra-engineering)
 * [Fastly Blog](https://www.fastly.com/blog/)
 * [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)
+* [Lyft Engineering Blog](https://eng.lyft.com/)
+* [Wish Engineering](https://medium.com/wish-engineering)
+* [Doordash Engineering](https://doordash.engineering/)
+* [SnowFlake Blog](https://community.snowflake.com/s/blog) 
+* [Palantir Blog](https://medium.com/palantir/tech/home)
 
 ### [[⬆]](#toc) <a name='system'>Products and Systems:</a>
 
