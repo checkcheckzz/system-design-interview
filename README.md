@@ -99,6 +99,8 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Nextdoor Engineering Blog](https://engblog.nextdoor.com/)
 * [Booking.com Development Blog](https://blog.booking.com/)
 * [Scalyr Engineering Blog ](https://blog.scalyr.com/)
+* [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)
+
 
 ### [[⬆]](#toc) <a name='system'>Products and Systems:</a>
 
