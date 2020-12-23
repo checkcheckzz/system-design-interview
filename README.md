@@ -48,7 +48,7 @@ Here are some articles about system design related topics.
 * [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
 * [Introduction to Architecting Systems for Scale](http://lethain.com/introduction-to-architecting-systems-for-scale/)
 * [Transactions Across Datacenters](http://snarfed.org/transactions_across_datacenters_io.html)
-* [A Plain English Introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
+* [A Plain English Introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
 * [The CAP FAQ](https://github.com/henryr/cap-faq)
 * [Paxos Made Simple](http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf)
 * [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
@@ -100,6 +100,7 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Booking.com Development Blog](https://blog.booking.com/)
 * [Scalyr Engineering Blog ](https://blog.scalyr.com/)
 * [Fastly Blog](https://www.fastly.com/blog/)
+* [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)
 
 ### [[⬆]](#toc) <a name='system'>Products and Systems:</a>
 
@@ -143,7 +144,7 @@ There are some good references for each question. The references here are slides
 
 **Design a CDN network**  
 Reference:  
-* [Globally Distributed Content Delivery](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2112&context=compsci)
+* [Globally Distributed Content Delivery](https://kilthub.cmu.edu/articles/journal_contribution/Globally_distributed_content_delivery/6605972)
 
 **Design a Google document system**  
 Reference:  
