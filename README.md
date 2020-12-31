@@ -146,6 +146,7 @@ The following papers/articles/slides can help you to understand the general desi
 * [ESPN Architecture](http://highscalability.com/blog/2013/11/4/espns-architecture-at-scale-operating-at-100000-duh-nuh-nuhs.html)
 * [Uber Architecture](http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html)
 * [DropBox Design](https://www.youtube.com/watch?v=PE4gwstWhmc)
+* [Distributed locks with Redis](http://redis.io/topics/distlock)
 * [Splunk Architecture](http://www.splunk.com/view/SP-CAAABF9)
 
 ### [[⬆]](#toc) <a name='qs'>Hot Questions and Reference:</a>
