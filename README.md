@@ -272,6 +272,7 @@ Use design patterns such that it can be reused in multiple applications.
 #### Useful Websites
 
 * [101 Design Patterns & Tips for Developers](http://sourcemaking.com/design-patterns-and-tips)
+* [The GoF Design Patterns Reference](http://w3sdesign.com/)
 
 
 
