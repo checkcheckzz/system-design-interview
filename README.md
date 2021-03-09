@@ -56,6 +56,7 @@ Here are some articles about system design related topics.
 * [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
 * [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 * [Scalability, Availability & Stability Patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns)
+* [How to choose the right Database in a System Design Interview](https://www.codekarle.com/system-design/Database-system-design.html)
 
 Of course, if you want to dive into system related topics, here is a good collection of reading list about [services-engineering](https://github.com/mmcgrana/services-engineering), and
 a good collection of material about [distributed systems](http://dancres.github.io/Pages/).
@@ -147,6 +148,7 @@ The following papers/articles/slides can help you to understand the general desi
 * [Uber Architecture](http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html)
 * [DropBox Design](https://www.youtube.com/watch?v=PE4gwstWhmc)
 * [Splunk Architecture](http://www.splunk.com/view/SP-CAAABF9)
+* [Google Maps Architecture](https://www.youtube.com/watch?v=jk3yvVfNvds)
 
 ### [[⬆]](#toc) <a name='qs'>Hot Questions and Reference:</a>
 
@@ -242,6 +244,11 @@ Reference:
 Reference:   
 * [Introduction to Memcached](http://www.slideshare.net/oemebamo/introduction-to-memcached)
 
+**Design Google Maps**    
+Reference:   
+* [Google Maps System Design](https://www.codekarle.com/system-design/Google_Maps-system-design.html)
+
+
 ### [[⬆]](#toc) <a name='bk'>Good Books:</a>
 
 * [Big Data: Principles and best practices of scalable realtime data systems](http://www.amazon.com/Big-Data-Principles-practices-scalable/dp/1617290343)
@@ -272,6 +279,7 @@ Use design patterns such that it can be reused in multiple applications.
 #### Useful Websites
 
 * [101 Design Patterns & Tips for Developers](http://sourcemaking.com/design-patterns-and-tips)
+* [CodeKarle](https://www.codekarle.com)
 
 
 
