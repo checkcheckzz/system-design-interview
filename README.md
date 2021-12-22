@@ -41,7 +41,6 @@ Here are some articles about system design related topics.
 
 * [The Anatomy Of A System Design Interview](https://blog.pramp.com/system-design-interview-process-e91aae2dbe83)
 * [How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26)
-* [How to Rock a Systems Design Interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 * [System Interview](http://www.hiredintech.com/app#system-design)
 * [Scalability for Dummies](http://www.lecloud.net/tagged/scalability)
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
@@ -102,7 +101,6 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Nextdoor Engineering Blog](https://engblog.nextdoor.com/)
 * [Booking.com Development Blog](https://blog.booking.com/)
 * [Microsoft Engineering Blog](https://engineering.microsoft.com/)
-* [Scalyr Engineering Blog](https://blog.scalyr.com/)
 * [Myntra Engineering Blog](https://medium.com/myntra-engineering)
 * [Fastly Blog](https://www.fastly.com/blog/)
 * [AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/)
@@ -111,6 +109,7 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Doordash Engineering](https://doordash.engineering/)
 * [SnowFlake Blog](https://community.snowflake.com/s/blog) 
 * [Palantir Blog](https://medium.com/palantir/tech/home)
+* [Logit.io Blog](https://logit.io/blog)
 
 ### [[⬆]](#toc) <a name='system'>Products and Systems:</a>
 
@@ -188,10 +187,6 @@ Reference:
 
 **Design an online multiplayer card game**   
 Reference:  
-* [How to Create an Asynchronous Multiplayer Game](http://www.indieflashblog.com/how-to-create-an-asynchronous-multiplayer-game.html)   
-* [How to Create an Asynchronous Multiplayer Game Part 2: Saving the Game State to Online Database](http://www.indieflashblog.com/how-to-create-async-part2.html)  
-* [How to Create an Asynchronous Multiplayer Game Part 3: Loading Games from the Database](http://www.indieflashblog.com/how-to-create-async-part3.html)  
-* [How to Create an Asynchronous Multiplayer Game Part 4: Matchmaking](http://www.indieflashblog.com/how-to-create-async-part4-html.html#comment-4447)  
 * [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/)  
 
 **Design a graph search function**   
@@ -218,7 +213,6 @@ Reference:
 **Design a tinyurl system**    
 Reference: 
 * [System Design for Big Data-tinyurl](http://n00tc0d3r.blogspot.com/) 
-* [URL Shortener API](https://developers.google.com/url-shortener/?csw=1)
 
 **Design a garbage collection system**    
 Reference:   
