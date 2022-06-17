@@ -76,7 +76,7 @@ If you are going to have an onsite with a company, you should read their enginee
 * [Airbnb Engineering](https://medium.com/airbnb-engineering)
 * [WebEngage Engineering Blog](http://engineering.webengage.com/)
 * [LinkedIn Engineering](http://engineering.linkedin.com/blog)
-* [The Netflix Tech Blog](http://techblog.netflix.com/)
+* [The Netflix Tech Blog](https://netflixtechblog.com/)
 * [BankSimple Simple Blog](https://www.simple.com/engineering/)
 * [Square The Corner](http://corner.squareup.com/)
 * [SoundCloud Backstage Blog](https://developers.soundcloud.com/blog/)
