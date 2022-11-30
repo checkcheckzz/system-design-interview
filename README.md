@@ -150,7 +150,8 @@ The following papers/articles/slides can help you to understand the general desi
 
 ### [[⬆]](#toc) <a name='qs'>Hot Questions and Reference:</a>
 
-There are some good references for each question. The references here are slides and articles. 
+There are some good references for each question. The references here are slides and articles.
+
 **Domain knowledge**  
 Reference:  
 * [What happens when you type a URL into your browser?](https://medium.com/@system-design/what-happens-when-you-type-a-url-into-your-browser-ca500d86975c)
