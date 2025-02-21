@@ -188,10 +188,10 @@ Reference:
 
 **Design an online multiplayer card game**   
 Reference:  
-* [How to Create an Asynchronous Multiplayer Game](http://www.indieflashblog.com/how-to-create-an-asynchronous-multiplayer-game.html)   
-* [How to Create an Asynchronous Multiplayer Game Part 2: Saving the Game State to Online Database](http://www.indieflashblog.com/how-to-create-async-part2.html)  
-* [How to Create an Asynchronous Multiplayer Game Part 3: Loading Games from the Database](http://www.indieflashblog.com/how-to-create-async-part3.html)  
-* [How to Create an Asynchronous Multiplayer Game Part 4: Matchmaking](http://www.indieflashblog.com/how-to-create-async-part4-html.html#comment-4447)  
+* [How to Create an Asynchronous Multiplayer Game](https://web.archive.org/web/20190621140932/https://www.indieflashblog.com/how-to-create-an-asynchronous-multiplayer-game.html)
+* [How to Create an Asynchronous Multiplayer Game Part 2: Saving the Game State to Online Database](https://web.archive.org/web/20190621140923/https://www.indieflashblog.com/how-to-create-async-part2.html)
+* [How to Create an Asynchronous Multiplayer Game Part 3: Loading Games from the Database](https://web.archive.org/web/20180929172133/http://www.indieflashblog.com/how-to-create-async-part3.html)
+* [How to Create an Asynchronous Multiplayer Game Part 4: Matchmaking](https://web.archive.org/web/20180924194649/http://www.indieflashblog.com/how-to-create-async-part4-html.html#comment-4447)
 * [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/)  
 
 **Design a graph search function**   
