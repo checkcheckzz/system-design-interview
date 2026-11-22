@@ -160,6 +160,7 @@ Reference:
 Reference:  
 * [google-mobwrite](https://code.google.com/p/google-mobwrite/)
 * [Differential Synchronization](https://neil.fraser.name/writing/sync/)
+* [Design Google Docs: OT vs CRDT walkthrough](https://systemdesignroad.in/practice/google-docs/read/)
 
 **Design a random ID generation system**  
 Reference: 
@@ -272,6 +273,7 @@ Use design patterns such that it can be reused in multiple applications.
 #### Useful Websites
 
 * [101 Design Patterns & Tips for Developers](http://sourcemaking.com/design-patterns-and-tips)
+* [Low-Level Design Problems with Java Code](https://systemdesignroad.in/lld-interview-questions/)
 
 
 
